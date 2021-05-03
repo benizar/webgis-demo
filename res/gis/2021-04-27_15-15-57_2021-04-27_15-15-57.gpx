@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/labexp/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<metadata>
+		<name>2021-04-27_15-15-57</name>
+	</metadata>
+	<wpt lat="41.10238893" lon="1.14789953">
+		<ele>84.00274658203125</ele>
+		<time>2021-04-27T13:16:30Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 70.25527954101562deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-16-30.jpg">
+			<text>2021-04-27_15-16-30.jpg</text>
+		</link>
+		<sat>17</sat>
+				<extensions>
+					<baro>1002,4</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.1024105" lon="1.14820901">
+		<ele>84.279296875</ele>
+		<time>2021-04-27T13:16:53Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 27.898727416992188deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-16-53.jpg">
+			<text>2021-04-27_15-16-53.jpg</text>
+		</link>
+		<sat>16</sat>
+				<extensions>
+					<baro>1002,4</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10266959" lon="1.14836998">
+		<ele>81.81903076171875</ele>
+		<time>2021-04-27T13:17:26Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 312.6985778808594deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-17-26.jpg">
+			<text>2021-04-27_15-17-26.jpg</text>
+		</link>
+		<sat>17</sat>
+				<extensions>
+					<baro>1002,4</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10286004" lon="1.14836538">
+		<ele>84.2432861328125</ele>
+		<time>2021-04-27T13:17:47Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 339.50726318359375deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-17-47.jpg">
+			<text>2021-04-27_15-17-47.jpg</text>
+		</link>
+		<sat>17</sat>
+				<extensions>
+					<baro>1002,4</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10301004" lon="1.14833016">
+		<ele>83.84814453125</ele>
+		<time>2021-04-27T13:18:02Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 241.88369750976562deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-18-02.jpg">
+			<text>2021-04-27_15-18-02.jpg</text>
+		</link>
+		<sat>16</sat>
+				<extensions>
+					<baro>1002,4</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10301357" lon="1.147747">
+		<ele>77.789306640625</ele>
+		<time>2021-04-27T13:18:45Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 248.31222534179688deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-18-45.jpg">
+			<text>2021-04-27_15-18-45.jpg</text>
+		</link>
+		<sat>15</sat>
+				<extensions>
+					<baro>1002,4</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10303951" lon="1.14748927">
+		<ele>77.9471435546875</ele>
+		<time>2021-04-27T13:19:05Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 153.83030700683594deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-19-05.jpg">
+			<text>2021-04-27_15-19-05.jpg</text>
+		</link>
+		<sat>13</sat>
+				<extensions>
+					<baro>1002,3</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10299947" lon="1.14749561">
+		<ele>80.58251953125</ele>
+		<time>2021-04-27T13:19:16Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 155.4620819091797deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-19-160.jpg">
+			<text>2021-04-27_15-19-160.jpg</text>
+		</link>
+		<sat>9</sat>
+				<extensions>
+					<baro>1002,3</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10263596" lon="1.14745294">
+		<ele>85.23052978515625</ele>
+		<time>2021-04-27T13:19:45Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 176.1588134765625deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-19-45.jpg">
+			<text>2021-04-27_15-19-45.jpg</text>
+		</link>
+		<sat>11</sat>
+				<extensions>
+					<baro>1002,4</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10249246" lon="1.14727561">
+		<ele>94.06219482421875</ele>
+		<time>2021-04-27T13:24:12Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 65.87358856201172deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-24-12.jpg">
+			<text>2021-04-27_15-24-12.jpg</text>
+		</link>
+		<sat>13</sat>
+				<extensions>
+					<baro>1002,3</baro>
+				</extensions>
+	</wpt>
+	<wpt lat="41.10242821" lon="1.14775977">
+		<ele>86.10345458984375</ele>
+		<time>2021-04-27T13:24:40Z</time>
+		<name><![CDATA[Foto]]></name>
+		<cmt><![CDATA[compass heading: 50.84807205200195deg
+			compass accuracy: 0]]></cmt>
+		<link href="2021-04-27_15-24-40.jpg">
+			<text>2021-04-27_15-24-40.jpg</text>
+		</link>
+		<sat>15</sat>
+				<extensions>
+					<baro>1002,3</baro>
+				</extensions>
+	</wpt>
+	<trk>
+		<name><![CDATA[Trazado con OSMTracker para Android™]]></name>
+		<trkseg>
+			<trkpt lat="41.10237594" lon="1.14792885">
+				<ele>107.1396484375</ele>
+				<time>2021-04-27T13:16:00Z</time>
+				<cmt><![CDATA[compass heading: 139.86032104492188deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>2.5799999237060547</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10238686" lon="1.14790123">
+				<ele>83.2994384765625</ele>
+				<time>2021-04-27T13:16:21Z</time>
+				<cmt><![CDATA[compass heading: 0.07941564172506332deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,5</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10238893" lon="1.14789953">
+				<ele>84.00274658203125</ele>
+				<time>2021-04-27T13:16:30Z</time>
+				<cmt><![CDATA[compass heading: 70.25527954101562deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10240531" lon="1.14798918">
+				<ele>84.12261962890625</ele>
+				<time>2021-04-27T13:16:41Z</time>
+				<cmt><![CDATA[compass heading: 73.48916625976562deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.5199999809265137</speed>
+					<baro>1002,5</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.1024105" lon="1.14820901">
+				<ele>84.279296875</ele>
+				<time>2021-04-27T13:16:53Z</time>
+				<cmt><![CDATA[compass heading: 27.898727416992188deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.3600000143051147</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.1024189" lon="1.14821457">
+				<ele>84.21429443359375</ele>
+				<time>2021-04-27T13:17:03Z</time>
+				<cmt><![CDATA[compass heading: 27.801353454589844deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10265179" lon="1.14836672">
+				<ele>82.4410400390625</ele>
+				<time>2021-04-27T13:17:24Z</time>
+				<cmt><![CDATA[compass heading: 1.3082395792007446deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.1299999952316284</speed>
+					<baro>1002,5</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10266959" lon="1.14836998">
+				<ele>81.81903076171875</ele>
+				<time>2021-04-27T13:17:26Z</time>
+				<cmt><![CDATA[compass heading: 312.6985778808594deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.1299999952316284</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10286004" lon="1.14836538">
+				<ele>84.2432861328125</ele>
+				<time>2021-04-27T13:17:47Z</time>
+				<cmt><![CDATA[compass heading: 339.50726318359375deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.340000033378601</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10301004" lon="1.14833016">
+				<ele>83.84814453125</ele>
+				<time>2021-04-27T13:18:02Z</time>
+				<cmt><![CDATA[compass heading: 241.88369750976562deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.4800000190734863</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10299978" lon="1.148317">
+				<ele>83.45684814453125</ele>
+				<time>2021-04-27T13:18:07Z</time>
+				<cmt><![CDATA[compass heading: 246.08572387695312deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10302977" lon="1.14796781">
+				<ele>80.8385009765625</ele>
+				<time>2021-04-27T13:18:28Z</time>
+				<cmt><![CDATA[compass heading: 234.23934936523438deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.7200000286102295</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10301357" lon="1.147747">
+				<ele>77.789306640625</ele>
+				<time>2021-04-27T13:18:45Z</time>
+				<cmt><![CDATA[compass heading: 248.31222534179688deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.49000000953674316</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10301876" lon="1.14774839">
+				<ele>78.155029296875</ele>
+				<time>2021-04-27T13:18:48Z</time>
+				<cmt><![CDATA[compass heading: 227.97581481933594deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10303951" lon="1.14748927">
+				<ele>77.9471435546875</ele>
+				<time>2021-04-27T13:19:05Z</time>
+				<cmt><![CDATA[compass heading: 153.83030700683594deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.9800000190734863</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10300728" lon="1.14749802">
+				<ele>81.32379150390625</ele>
+				<time>2021-04-27T13:19:16Z</time>
+				<cmt><![CDATA[compass heading: 149.3129119873047deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10299947" lon="1.14749561">
+				<ele>80.58251953125</ele>
+				<time>2021-04-27T13:19:16Z</time>
+				<cmt><![CDATA[compass heading: 155.4620819091797deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.1027418" lon="1.14751775">
+				<ele>83.30987548828125</ele>
+				<time>2021-04-27T13:19:36Z</time>
+				<cmt><![CDATA[compass heading: 187.1076202392578deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.0399999618530273</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10263596" lon="1.14745294">
+				<ele>85.23052978515625</ele>
+				<time>2021-04-27T13:19:45Z</time>
+				<cmt><![CDATA[compass heading: 176.1588134765625deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.0800000429153442</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10250536" lon="1.14732097">
+				<ele>92.8243408203125</ele>
+				<time>2021-04-27T13:20:16Z</time>
+				<cmt><![CDATA[compass heading: 208.9742889404297deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.102498" lon="1.1473156">
+				<ele>93.15850830078125</ele>
+				<time>2021-04-27T13:20:36Z</time>
+				<cmt><![CDATA[compass heading: 215.78038024902344deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.41999998688697815</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10249489" lon="1.14728973">
+				<ele>94.92034912109375</ele>
+				<time>2021-04-27T13:21:16Z</time>
+				<cmt><![CDATA[compass heading: 217.34141540527344deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10249503" lon="1.14729037">
+				<ele>94.98443603515625</ele>
+				<time>2021-04-27T13:21:36Z</time>
+				<cmt><![CDATA[compass heading: 248.85122680664062deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10249594" lon="1.14728603">
+				<ele>94.76318359375</ele>
+				<time>2021-04-27T13:22:13Z</time>
+				<cmt><![CDATA[compass heading: 308.2118225097656deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10249852" lon="1.14729145">
+				<ele>93.997802734375</ele>
+				<time>2021-04-27T13:22:33Z</time>
+				<cmt><![CDATA[compass heading: 233.55401611328125deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10250586" lon="1.14727542">
+				<ele>94.01885986328125</ele>
+				<time>2021-04-27T13:23:12Z</time>
+				<cmt><![CDATA[compass heading: 324.34771728515625deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10250322" lon="1.14726989">
+				<ele>94.22882080078125</ele>
+				<time>2021-04-27T13:23:33Z</time>
+				<cmt><![CDATA[compass heading: 340.1675109863281deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10250101" lon="1.14726852">
+				<ele>94.82098388671875</ele>
+				<time>2021-04-27T13:23:53Z</time>
+				<cmt><![CDATA[compass heading: 332.92864990234375deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10249246" lon="1.14727561">
+				<ele>94.06219482421875</ele>
+				<time>2021-04-27T13:24:12Z</time>
+				<cmt><![CDATA[compass heading: 65.87358856201172deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.0</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10242259" lon="1.14736102">
+				<ele>80.6505126953125</ele>
+				<time>2021-04-27T13:24:20Z</time>
+				<cmt><![CDATA[compass heading: 78.80155181884766deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.38999998569488525</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10242821" lon="1.14775977">
+				<ele>86.10345458984375</ele>
+				<time>2021-04-27T13:24:40Z</time>
+				<cmt><![CDATA[compass heading: 50.84807205200195deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>1.3799999952316284</speed>
+					<baro>1002,3</baro>
+				</extensions>
+			</trkpt>
+			<trkpt lat="41.10241909" lon="1.14781449">
+				<ele>86.269775390625</ele>
+				<time>2021-04-27T13:24:47Z</time>
+				<cmt><![CDATA[compass heading: 62.806640625deg
+					compass accuracy: 0]]></cmt>
+				<extensions>
+					<speed>0.47999998927116394</speed>
+					<baro>1002,4</baro>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
